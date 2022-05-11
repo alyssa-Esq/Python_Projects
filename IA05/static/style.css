@@ -1,0 +1,39 @@
+* {
+box-sizing: border-box;
+}
+
+*:focus {
+	outline: none;
+}
+body {
+}
+
+.calculator {
+margin: 20px auto;
+width: 400px;
+}
+
+.app-title {
+}
+
+.calc-form {
+}
+.control-group {
+margin-bottom: 10px;
+}
+
+input {
+}
+
+input:focus {
+}
+
+.btn {
+}
+
+.btn:hover {
+}
+
+.operator-field {
+  width: 1em;
+}
